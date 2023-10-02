@@ -1,0 +1,23 @@
+# Ignore artifacts:
+build
+coverage
+package-lock.json
+.next
+out
+dist
+
+# Ignore non source files
+coverage
+node_modules
+charts
+.tasks
+Taskfile.yml
+.vscode
+# .github
+
+# Ignore hbs
+*.hbs
+
+# Smart Contract artifacts
+src/payment/contract-artifacts/*
+src/payment/contract-types/*
