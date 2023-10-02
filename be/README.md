@@ -1,4 +1,3 @@
-# Youtube Companion: AI tool for youtubers
 
 ## Description
 
@@ -38,4 +37,4 @@ $ npm run test:cov
 
 ## Author
 
-[@sksaddyy](https://twitter.com/sksaddyy)
+Ashish Gupta
